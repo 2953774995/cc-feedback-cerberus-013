@@ -1,0 +1,5 @@
+来源仓库：https://github.com/pyeve/cerberus
+冻结 commit：83f5dada76aa3179ef21b677a7f4235bf20c1566
+许可证：ISC
+导入日期：2026-11-15
+说明：本目录为评测底座，已剥离上游 git 历史，仅保留代码快照。
